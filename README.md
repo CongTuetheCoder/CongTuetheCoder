@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @CongTuetheCoder
-- 👀 I’m interested in maths and CS
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on the upcoming Hackathon by Coding with Lewis
-- 📫 How to reach me: via email / Discord
+- 👋 Hi, I’m @CongTuetheCoder.
+- 👀 I’m interested in maths and CS.
+- 🌱 I’m currently the lead developer of CriticalCode.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My 3x3 PB is 30.11 seconds
 
 <!---
 CongTuetheCoder/CongTuetheCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
